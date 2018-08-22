@@ -1,2 +1,2 @@
 # Test
-The repository was created for no apparent reason.
+The repository was created for a good reason.
